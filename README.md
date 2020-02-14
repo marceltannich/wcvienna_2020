@@ -2,6 +2,9 @@
 
 Here you will find the slides from my talk at WordCamp Vienna 2020.
 
+# Download PDF
+https://github.com/mardroid/wcvienna_2020/blob/master/Keine%20Angst%20vor%20der%20Kommandozeile%20-%20Eine%20Einf%C3%BChrung%20in%20WP-CLI.pdf
+
 # Download Speaker Desk:
 https://speakerdeck.com/marceltannich/keine-angst-vor-der-kommandozeile-eine-einfuhrung-in-wp-cli-4b8569ae-3a5e-4385-8b33-23939caafa99
 
