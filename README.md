@@ -1,6 +1,7 @@
 # Keine Angst vor der Kommandozeile - Eine Einführung in WP-CLI
 
 Here you will find the slides from my talk at WordCamp Vienna 2020.
+https://2020.vienna.wordcamp.org/session/keine-angst-vor-der-kommandozeile-eine-einfuhrung-in-wp-cli/
 
 # Download PDF
 https://github.com/mardroid/wcvienna_2020/blob/master/Keine%20Angst%20vor%20der%20Kommandozeile%20-%20Eine%20Einf%C3%BChrung%20in%20WP-CLI.pdf
